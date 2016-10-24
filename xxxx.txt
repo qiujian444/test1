@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 sdsdfsdffd
 sfsfsdfsdf
 asdass
 sdfsdfsdfdfsdfsdfaasdfa
 sdfdf
 sdfsdf
+=======
+sdfsdfd
+sdfff
+sfsdfsdfsdf
+asssdfdassdfdfsdfsaasdfa
+sdffsf
+sdfsdffdf
+sdf
+>>>>>>> dev
